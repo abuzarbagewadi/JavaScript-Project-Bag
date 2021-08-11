@@ -14,4 +14,7 @@ Projects that I make for learning JavaScript.
 * # Dice Challenge
 <p align='center'><img src="images/dicechallenge.JPG" height=250px weight=250px></p>
 
+* # Updating CSS Variables using JS
+<p align='center'><img src="images/blur.JPG" height=250px weight=250px></p>
+
 
